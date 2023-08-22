@@ -6,6 +6,7 @@ public class Number2 {
      *      например, массивы. Если наш реверс необходимо провести только в методе, то можно обойтись без массива
      */
 
+
 public static void main(String[] args) {
     int a = 2;
     int b = 8;
