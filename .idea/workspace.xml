@@ -4,15 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="01ebbd62-bfd4-47b2-9755-a8a6bd6b64f9" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Number1" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Number2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Number3.java" afterDir="false" />
+    <list default="true" id="01ebbd62-bfd4-47b2-9755-a8a6bd6b64f9" name="Changes" comment="Тестовое задание для ГРИНАТОМ">
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -75,8 +68,30 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1692633810615</updated>
-      <workItem from="1692633812907" duration="7427000" />
+      <workItem from="1692633812907" duration="7731000" />
     </task>
+    <task id="LOCAL-00001" summary="Тестовое задание для ГРИНАТОМ">
+      <created>1692683071390</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1692683071390</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Тестовое задание для ГРИНАТОМ">
+      <created>1692683248205</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1692683248205</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Тестовое задание для ГРИНАТОМ">
+      <created>1692683252449</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1692683252449</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -92,5 +107,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Тестовое задание для ГРИНАТОМ" />
+    <option name="LAST_COMMIT_MESSAGE" value="Тестовое задание для ГРИНАТОМ" />
   </component>
 </project>
