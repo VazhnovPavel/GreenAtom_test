@@ -7,6 +7,7 @@ public class Number3 {
         System.out.println("Слово " + word2 + " это палиндром? " + isPalindrome(word2));
     }
 
+
     public static String isPalindrome(String word) {
         // Убираем учет регистра
         word = word.toLowerCase();

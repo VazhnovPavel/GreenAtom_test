@@ -8,5 +8,4 @@
     FROM employeesDB
     WHERE experience < (
     SELECT MAX(experience)
-    FROM employeesDB
-    ))
+    FROM employeesDB ))
