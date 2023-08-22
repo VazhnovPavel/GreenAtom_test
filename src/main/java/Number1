@@ -1,0 +1,12 @@
+
+   Запрос выдает фамилию второго по величине сотрудника со стажем
+
+   SELECT surname
+    FROM employeesDB
+    WHERE experience = (
+            SELECT MAX(experience)
+    FROM employeesDB
+    WHERE experience < (
+    SELECT MAX(experience)
+    FROM employeesDB
+    ))
