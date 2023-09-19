@@ -1,3 +1,5 @@
+package Trainee_quest;
+
 public class Number3 {
     public static void main(String[] args) {
         String word1 = "Топот";

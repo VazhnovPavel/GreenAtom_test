@@ -1,3 +1,5 @@
+package Trainee_quest;
+
 public class Number2 {
 
     /**

@@ -5,7 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="01ebbd62-bfd4-47b2-9755-a8a6bd6b64f9" name="Changes" comment="Тестовое задание для ГРИНАТОМ">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Collections/ArrayList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Collections/HashSetExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Collections/QueueExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Number1" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Trainee_quest/Number1" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Number2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Trainee_quest/Number2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Number3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Trainee_quest/Number3.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,20 +43,53 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
     "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Number2">
-    <configuration name="Number2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Number2" />
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/java/Trainee_quest" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Collections.ArrayList">
+    <configuration name="ArrayList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Collections.ArrayList" />
+      <module name="GreenAtom_test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Collections.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestingOverride" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TestingOverride" />
       <module name="GreenAtom_test" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Number3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Number3" />
+    <configuration name="Trainee_quest.Number2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Trainee_quest.Number2" />
+      <module name="GreenAtom_test" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Trainee_quest.Number3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Trainee_quest.Number3" />
+      <module name="GreenAtom_test" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TreeMap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Collections.TreeMap" />
       <module name="GreenAtom_test" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -56,8 +97,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Number2" />
-        <item itemvalue="Application.Number3" />
+        <item itemvalue="Application.Collections.ArrayList" />
+        <item itemvalue="Application.Collections.ExampleTreeMap" />
+        <item itemvalue="Application.TestingOverride" />
+        <item itemvalue="Application.Trainee_quest.Number2" />
+        <item itemvalue="Application.Trainee_quest.Number3" />
       </list>
     </recent_temporary>
   </component>
@@ -71,7 +115,16 @@
       <updated>1692633810615</updated>
       <workItem from="1692633812907" duration="8314000" />
       <workItem from="1692683923974" duration="246000" />
-      <workItem from="1692684173441" duration="25000" />
+      <workItem from="1692684173441" duration="484000" />
+      <workItem from="1692684695231" duration="603000" />
+      <workItem from="1692860515959" duration="611000" />
+      <workItem from="1694578671046" duration="740000" />
+      <workItem from="1694610732708" duration="1913000" />
+      <workItem from="1694702460535" duration="609000" />
+      <workItem from="1694755340073" duration="685000" />
+      <workItem from="1694842154794" duration="1977000" />
+      <workItem from="1694851220021" duration="18000" />
+      <workItem from="1695100477031" duration="4250000" />
     </task>
     <task id="LOCAL-00001" summary="Тестовое задание для ГРИНАТОМ">
       <created>1692683071390</created>
@@ -143,7 +196,14 @@
       <option name="project" value="LOCAL" />
       <updated>1692684180727</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Тестовое задание для ГРИНАТОМ">
+      <created>1692684306700</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1692684306700</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
