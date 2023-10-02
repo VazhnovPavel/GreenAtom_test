@@ -1,6 +1,4 @@
-package Lesson2;
-
-import com.sun.security.jgss.GSSUtil;
+package GreenAtomTrainee.Lesson2;
 
 import java.util.ArrayList;
 import java.util.Scanner;

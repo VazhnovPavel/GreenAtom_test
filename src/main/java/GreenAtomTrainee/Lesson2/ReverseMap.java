@@ -1,4 +1,4 @@
-package Lesson2;
+package GreenAtomTrainee.Lesson2;
 
 import java.util.HashMap;
 import java.util.Map;

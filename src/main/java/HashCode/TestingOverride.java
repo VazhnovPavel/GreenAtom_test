@@ -1,3 +1,7 @@
+package HashCode;
+
+import HashCode.Person;
+
 import java.util.Objects;
 
 public class TestingOverride {

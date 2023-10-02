@@ -1,4 +1,4 @@
-package Lesson2;
+package GreenAtomTrainee.Lesson2;
 import java.util.*;
 import java.util.ArrayList;
 
@@ -7,7 +7,6 @@ public class SpeedTest {
         final int N = 1000000; // Размер коллекции
         int elementToSearch = N / 2; // Элмент поиска в коллекции
         int elementToAdd = N + 1; // Элемент, который нужно добавить
-        int elementToRemove = N / 2; // Элемент, который нужно удалить (в данном случае, удаляем средний элемент)
 
         ArrayList<Integer> arrayList = new ArrayList<>();
         LinkedList<Integer> linkedList = new LinkedList<>();
@@ -99,20 +98,20 @@ public class SpeedTest {
 
         // Измерение времени удаления элемента из TreeSet
         startTime = System.nanoTime();
-        treeSet.remove(elementToRemove);
+        treeSet.remove(elementToSearch);
         endTime = System.nanoTime();
         long removeTreeSetTime = endTime - startTime;
 
         // Измерение времени удаления элемента из HashSet
         startTime = System.nanoTime();
-        hashSet.remove(elementToRemove);
+        hashSet.remove(elementToSearch);
         endTime = System.nanoTime();
         long removeHashSetTime = endTime - startTime;
 
         // Измерение времени удаление элемента из массива
         startTime = System.nanoTime();
         array = Arrays.copyOf(array, array.length + 1);
-        array[elementToRemove] =0;
+        array[elementToSearch] =0;
         endTime = System.nanoTime();
         long removeArrayTime = endTime - startTime;
 

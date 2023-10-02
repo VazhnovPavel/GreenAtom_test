@@ -1,9 +1,9 @@
-package Lesson2;
+package GreenAtomTrainee.Lesson2;
 
 public class ExceptionQuest {
 
     public static void main(String[] args) {
-        for (int i = 0; i < 3; i++) {
+        for (int i = 0; i < 2; i++) {
             try {
                 new MyException();
             } catch (Throwable e) {
@@ -23,10 +23,7 @@ public class ExceptionQuest {
     class MyException extends RuntimeException {
     private String s;
 
-//        Во второй итерации цикла происходит попытка создать еще один объект класса MyException,
-//        но при этом уже не выполняется статический блок инициализации класса MyException, так как класс уже был
-//        загружен в память, и его статический блок уже был выполнен. Вместо этого возникает
-//        java.lang.NoClassDefFoundError, так как класс MyException не может быть повторно загружен.
+//        статический блок инициализации работает один раз
     static {
         init();
     }

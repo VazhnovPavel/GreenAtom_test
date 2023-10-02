@@ -1,4 +1,4 @@
-package Trainee_quest;
+package GreenAtomTrainee.GreenAtomStartExam;
 
 public class Number2 {
 
