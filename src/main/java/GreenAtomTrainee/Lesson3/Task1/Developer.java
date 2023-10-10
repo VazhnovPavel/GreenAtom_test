@@ -1,11 +1,13 @@
 package GreenAtomTrainee.Lesson3.Task1;
 
 import lombok.Getter;
+
 import java.util.*;
 import java.util.stream.Collectors;
 import java.util.stream.Stream;
 
 public class Developer {
+
     public Developer(String name, List<String> languages) {
         this.name = name;
         this.languages = languages;

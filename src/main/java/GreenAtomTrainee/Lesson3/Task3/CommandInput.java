@@ -4,19 +4,22 @@ import lombok.Getter;
 
 public class CommandInput {
     @Getter
-    private String path;
+    String path;
     @Getter
-    private String fileName;
+    String fileName;
     @Getter
-    private String command;
+    String command;
     @Getter
-    private String content;
+    String content;
 
     public CommandInput(String path, String fileName, String command, String content) {
         this.path = path;
         this.fileName = fileName;
         this.command = command;
         this.content = content;
+    }
+    public CommandInput() {
+
     }
 }
 

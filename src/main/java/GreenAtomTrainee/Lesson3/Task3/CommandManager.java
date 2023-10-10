@@ -60,4 +60,14 @@ public class CommandManager {
             System.err.println("Ошибка при записи в файл: " + e.getMessage());
         }
     }
+
+    public void ls(String path) {
+        File directory = new File(path);
+
+        if (directory.exists() && directory.isDirectory()) {
+            System.out.println("Директория существует.");
+        } else {
+            System.out.println("Директория не существует.");
+        }
+    }
 }

@@ -15,7 +15,6 @@ public class StartProgram {
         while (true) {
             System.out.println("Введите команду (в формате '/путь/к/файлу/ИмяФайла -команда [контент]'): ");
             input = scanner.nextLine().trim();
-
             CommandInput commandInput = SplitCommand.split(input);
 
             if (commandInput != null) {
@@ -44,10 +43,17 @@ public class StartProgram {
                         commandManager.write(path, fileName, content);
                         break;
 
+                    case "-ls":
+
+                        commandManager.ls(path);
+                        break;
+
                     case "exit":
                         System.out.println("Программа завершена.");
                         scanner.close();
                         return;
+
+
 
                     default:
                         System.out.println("Неверная команда. Допустимые команды: create, delete, read, write, exit.");
