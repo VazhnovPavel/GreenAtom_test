@@ -4,19 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="01ebbd62-bfd4-47b2-9755-a8a6bd6b64f9" name="Changes" comment="Выполнил 3 дз">
-      <change afterPath="$PROJECT_DIR$/src/main/java/Exception/RaceCondition.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/GarbageCollector/PhantomReference.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/GreenAtomTrainee/Lesson4/AsyncHelloAndGoodbye.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/GreenAtomTrainee/Lesson4/AsyncWorkProgramCheck.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/GreenAtomTrainee/Lesson4/Task1.java" afterDir="false" />
+    <list default="true" id="01ebbd62-bfd4-47b2-9755-a8a6bd6b64f9" name="Changes" comment="Выполнил 1 задачу 3 урока + референсы">
+      <change afterPath="$PROJECT_DIR$/src/main/java/GreenAtomTrainee/Lesson5/task1" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/GreenAtomTrainee/Lesson3/Task1/Developer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/GreenAtomTrainee/Lesson3/Task1/Developer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/GreenAtomTrainee/Lesson3/Task3/CommandInput.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/GreenAtomTrainee/Lesson3/Task3/CommandInput.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/GreenAtomTrainee/Lesson3/Task3/CommandManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/GreenAtomTrainee/Lesson3/Task3/CommandManager.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/GreenAtomTrainee/Lesson3/Task3/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/GreenAtomTrainee/Lesson3/Task3/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/GreenAtomTrainee/Lesson3/Task3/SplitCommand.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/GreenAtomTrainee/Lesson3/Task3/SplitCommand.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/GreenAtomTrainee/Lesson3/Task3/StartProgram.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/GreenAtomTrainee/Lesson3/Task3/StartProgram.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -181,7 +171,8 @@
       <workItem from="1696250734695" duration="6694000" />
       <workItem from="1696568319469" duration="1542000" />
       <workItem from="1696758477908" duration="7303000" />
-      <workItem from="1696861212785" duration="4333000" />
+      <workItem from="1696861212785" duration="5561000" />
+      <workItem from="1696942755753" duration="4200000" />
     </task>
     <task id="LOCAL-00001" summary="Тестовое задание для ГРИНАТОМ">
       <created>1692683071390</created>
@@ -281,7 +272,14 @@
       <option name="project" value="LOCAL" />
       <updated>1696250756612</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="Выполнил 1 задачу 3 урока + референсы">
+      <created>1696911101080</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1696911101080</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -303,6 +301,7 @@
     <MESSAGE value="Добавил примеры коллекций" />
     <MESSAGE value="Выполнил 2 дз" />
     <MESSAGE value="Выполнил 3 дз" />
-    <option name="LAST_COMMIT_MESSAGE" value="Выполнил 3 дз" />
+    <MESSAGE value="Выполнил 1 задачу 3 урока + референсы" />
+    <option name="LAST_COMMIT_MESSAGE" value="Выполнил 1 задачу 3 урока + референсы" />
   </component>
 </project>
