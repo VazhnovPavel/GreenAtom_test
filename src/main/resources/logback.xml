@@ -1,0 +1,10 @@
+<configuration>
+
+    <!-- Другие настройки логирования -->
+
+    <!-- Определение логгера для HikariCP -->
+    <logger name="com.zaxxer.hikari" level="INFO" />
+
+    <!-- Другие логгеры -->
+
+</configuration>

@@ -1,4 +1,4 @@
-package GreenAtomTrainee.Lesson5;
+package JDBC;
 
 import com.zaxxer.hikari.HikariDataSource;
 
@@ -6,7 +6,12 @@ import java.sql.Connection;
 import java.sql.ResultSet;
 import java.sql.Statement;
 
-public class testingClass {
+/**
+ * Простой пример быстрого развертывания JDBC драйвера на основе HikariCP
+ */
+
+
+public class fastDeploymentJDBC {
     public static void main(String[] args) {
         HikariDataSource dataSource = HikariCPConfig.createDataSource();
 
